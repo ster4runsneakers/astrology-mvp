@@ -405,7 +405,7 @@ st.markdown(
 st.markdown(
     """
 <div class="hero">
-  <div class="ui-version-badge">UI v5.7 · Electric Midnight · Plain+Clear</div>
+  <div class="ui-version-badge">UI v5.8 · Electric Midnight · Καραλή/Πατέρα</div>
   <span class="hero-kicker">Astrology · Ελληνικά</span>
   <h1>Αστρολογικός χάρτης</h1>
   <p>
